@@ -19,8 +19,8 @@
 
 ### 🚀 Featured Projects
 
-* **[CeylonQueueBusPulse](https://github.com/buddhikadarshan/CeylonQueueBusPulse)**: A cloud-ready transit platform delivering real-time traffic congestion and route tracking using Kotlin, Node.js, and Redis.
-* **[Enterprise E-Commerce Platform](https://github.com/buddhikadarshan/Angular-Project---2025-8-6)**: A scalable retail management system with custom role-based access, secure OTP, and integrated payment gateways built on the MERN stack + Angular.
+* **[CrowdFlow](https://github.com/buddhikadarshan/CrowdFlow)**: A cloud-ready transit platform delivering real-time traffic congestion and route tracking using Kotlin, Node.js, and Redis.
+* **[BoutiqueFlow](https://github.com/buddhikadarshan/Angular-Project---2025-8-6)**: A scalable retail management system with custom role-based access, secure OTP, and integrated payment gateways built on the MERN stack + Angular.
 * **[Cypher-UI](https://github.com/buddhikadarshan/cipher-ui)**: An interactive cryptography learning platform featuring real-time encryption visualizations and gamified challenges.
 * **[Earn++](https://github.com/BuddhikaBICT-UoR-FoT-6/EarnPlusPlus)** is a full-stack mobile investment tracking app built to help beginners and student investors manage portfolios with clarity and confidence. The app provides secure authentication, per-user investment management, clear dollar-based formatting, meaningful profit/loss insights, and friendly validation feedback to replace confusing spreadsheet-style tracking. Built with Flutter and Dart on the frontend, a Dart Shelf API backend, and MySQL for persistence, the project focuses on reliability, clean UX, and realistic multi-user testing through deterministic dev/demo seed data
 * **[EnvVault ]**: A secure, encrypted Java desktop application designed to prevent `.env` file leaks by injecting developer credentials at runtime via the OS-level `ProcessBuilder`.
