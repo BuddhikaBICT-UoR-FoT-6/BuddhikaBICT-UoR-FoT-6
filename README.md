@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Buddhika Darshan 👋</h1>
 
-<h3 align="center">Full-Stack Software Engineer | Java, Spring Boot & MERN Stack</h3>
+<h3 align="center">Full-Stack Software Engineer | Java(Spring Boot) & React.js</h3>
 
 <p align="center">
   </p>
